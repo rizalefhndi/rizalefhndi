@@ -11,8 +11,8 @@ Passionate Wrb developer with 1 years of experience specializing in Laravel. Ski
 * 🚀  I'm currently working on [Maxxima Innovative Engineering](https://maxxima-technology.com/)
 * 🤝  I'm open to collaborating on Website
 
-<a href="https://www.x.com/kinhdev24" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/kinhdev24?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.x.com/" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/rizalefhndi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
