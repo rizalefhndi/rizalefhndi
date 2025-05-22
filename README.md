@@ -6,7 +6,7 @@ WEB Developer
 
 Passionate Wrb developer with 1 years of experience specializing in Laravel. Skilled in building dynamic, responsive web applications with a focus on performance and user experience. Proficient in TypeScript, Tailwind CSS, ShadCN, Zustand, and API integration. Strong problem-solving skills and a collaborative team player.
 
-* 🌍  I'm based in Da Nang, VietNam
+* 🌍  I'm based in Surabaya, Indonesia
 * ✉️  You can contact me at [fendikrama56@gmail.com](mailto:kinhdev24@gmail.com)
 * 🚀  I'm currently working on [Maxxima Innovative Engineering](https://maxxima-technology.com/)
 * 🤝  I'm open to collaborating on Website
