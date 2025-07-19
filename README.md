@@ -6,11 +6,11 @@ WEB Developer
 
 Passionate Web developer with 1+ years of experience specializing in Laravel. Skilled in building dynamic, responsive web applications with a focus on performance and user experience. Proficient in Laravel, React, TypeScript, Tailwind CSS, ShadCN, and API integration. Strong problem-solving skills and a collaborative team player.
 
-🌍  I'm based in Surabaya, Indonesia
-✉️  You can contact me at [fendikrama56@gmail.com](mailto:kinhdev24@gmail.com)
-🚀  I'm currently working on [Maxxima Innovative Engineering](https://maxxima-technology.com/)
-🤝  Let's Build Something Great Together
-🌱  I’m currently learning Next.js
+* 🌍  I'm based in Surabaya, Indonesia
+* ✉️  You can contact me at [fendikrama56@gmail.com](mailto:kinhdev24@gmail.com)
+* 🚀  I'm currently working on [Maxxima Innovative Engineering](https://maxxima-technology.com/)
+* 🤝  Let's Build Something Great Together
+* 🌱  I’m currently learning Next.js
 
 <a href="https://www.x.com/" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/rizalefhndi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
