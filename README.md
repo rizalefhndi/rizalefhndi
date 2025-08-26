@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./cyber157.gif" alt="Profile banner" />
+  <img src="./cyber157.gif" width="100%" alt="Profile banner" />
 </p>
 
 
