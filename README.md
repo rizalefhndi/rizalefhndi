@@ -29,29 +29,35 @@
 
 ### 🛠️ Skills
 
+#### Languages
 <div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: left;">
-
-  <!-- Languages  -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white" height="28" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="28" alt="PHP" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" height="28" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="28" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript" />
+</div>
 
-  <!-- Frameworks  -->
+#### Frameworks & Runtime
+<div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: left;">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" height="28" alt="Laravel" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" height="28" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" height="28" alt="Laravel" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="28" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" height="28" alt="Express.js" />
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="28" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="28" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28" alt="Docker" />
-
-
-
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="28" alt="Express" />
 </div>
+
+#### Databases
+<div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: left;">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" height="28" alt="Redis" />
+</div>
+
+#### Tools & Platforms
+<div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: left;">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="28" alt="Postman" />
+</div>
+
 
 ---
 
