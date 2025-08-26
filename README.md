@@ -5,9 +5,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Rizal Efendi 👋</h1>
-<p align="center">
-  <b>Web Developer</b>
-</p>
+<h3 align="center">💻 Crafting clean code & modern apps — less bug, more swag</h3>
 
 <p align="center">
   <a href="mailto:fendikrama56@gmail.com"><img src="https://img.shields.io/badge/Email-fendikrama56%40gmail.com-1c1917?style=for-the-badge&logo=gmail&logoColor=white"/></a>
