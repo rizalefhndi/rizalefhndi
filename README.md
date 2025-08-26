@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ezgif.com.gif" alt="Banner">
+  <img src="art restaurant.gif" alt="Banner">
 </p>
 
 
