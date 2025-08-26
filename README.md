@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi, I'm Rizal Efendi 👋</h1>
 <p align="center">
-  <b>Web Developer</b> — Laravel, React, TypeScript, Tailwind CSS, ShadCN, API Integration
+  <b>Web Developer</b>
 </p>
 
 <p align="center">
