@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="mailto:fendikrama56@gmail.com"><img src="https://img.shields.io/badge/Email-fendikrama56%40gmail.com-1c1917?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://rizalefhndi.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-rizalefhndi.netlify.app-1c1917?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mochrizalefendi" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Rizal%20Efendi-1c1917?style=for-the-badge&logo=linkedin&logoColor=0ea5e9"/></a>
-  <a href="https://rizalefhndi.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-rizalefhndi.netlify.app-1c1917?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 
 </p>
 
