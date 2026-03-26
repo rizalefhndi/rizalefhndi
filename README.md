@@ -37,10 +37,12 @@
 #### Frameworks & Runtime
 <div align="left">
   <img src="https://img.shields.io/badge/Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20" height="28" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Vue-05122A?style=flat&logo=vue.js&logoColor=4FC08D" height="28" alt="Vue.js" />
   <img src="https://img.shields.io/badge/React-05122A?style=flat&logo=react&logoColor=61DAFB" height="28" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-05122A?style=flat&logo=nextdotjs&logoColor=white" height="28" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js&logoColor=339933" height="28" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-05122A?style=flat&logo=express&logoColor=white" height="28" alt="Express" />
+  <img src="https://img.shields.io/badge/WebSocket-05122A?style=flat&logo=socket.io&logoColor=white" height="28" alt="WebSocket" />
 </div>
 
 #### Databases
