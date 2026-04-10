@@ -56,6 +56,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker&logoColor=2496ED" height="28" alt="Docker" />
   <img src="https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman&logoColor=FF6C37" height="28" alt="Postman" />
+  <img src="https://img.shields.io/badge/Midtrans-05122A?style=flat&logoColor=white" height="28" alt="Midtrans" />
 </div>
 
 
