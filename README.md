@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/PHP-05122A?style=flat&logo=php&logoColor=777BB4" height="28" alt="PHP" />
   <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E" height="28" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6" height="28" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Rust-05122A?style=flat&logo=rust&logoColor=white" height="28" alt="Rust" />
 </div>
 
 #### Frameworks & Runtime
